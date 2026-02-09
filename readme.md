@@ -1,1 +1,24 @@
-別看了，看bio啦= =
+# 這裡是StupidestJack
+## 一個多多少少有點神金的中學牲
+
+別對我專案有太大希望awa 
+
+[@Mamegoodbean2k](https://github.com/Mamegoodbean2k) 帳號的使用者。
+
+因為repo太垃圾(加上想強調自己長大了)，所以棄用原帳號
+
+## 技術水平
+`
+    Python =================    85%
+JavaScript ============         60%
+        C# ==============       70%
+    VB.NET ==========           50%
+ Brainf*ck                       0%
+`
+
+## 各種連結
+
+[專案櫃](stupidestjack.github.io/projects-placement-pages/) 我那些稀奇古怪的GitHub專案集合地
+
+[部落格](stupidestjack.github.io/blog/) 想到才更
+
