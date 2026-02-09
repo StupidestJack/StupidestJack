@@ -7,11 +7,11 @@
 
 ## 技術水平
 
-`    Python =================    85%`<br>
-`JavaScript ============         60%`<br>
-`        C# ==============       70%`<br>
-`    VB.NET ==========           50%`<br>
-` Brainf*ck                       0%`
+`=================    85% Python`<br>
+`============         60% JavaScript`<br>
+`==============       70% C#`<br>
+`==========           50% Visual Basic`<br>
+`                      0% Brainf*ck`
 ## 各種連結
 
 [專案櫃](stupidestjack.github.io/projects-placement-pages/) 我那些稀奇古怪的GitHub專案集合地<br>
