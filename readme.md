@@ -1,10 +1,8 @@
 # 這裡是StupidestJack
 ## 一個多多少少有點神金的中學牲
 
-別對我專案有太大希望awa 
-
-[@Mamegoodbean2k](https://github.com/Mamegoodbean2k) 帳號的使用者。
-
+別對我專案有太大希望awa <br>
+[@Mamegoodbean2k](https://github.com/Mamegoodbean2k) 帳號的使用者。<br>
 因為repo太垃圾(加上想強調自己長大了)，所以棄用原帳號
 
 ## 技術水平
