@@ -14,6 +14,6 @@
 `                      0% Brainf*ck`
 ## 各種連結
 
-[專案櫃](stupidestjack.github.io/projects-placement-pages/) 我那些稀奇古怪的GitHub專案集合地<br>
-[部落格](stupidestjack.github.io/blog/) 想到才更
+[專案櫃](https://stupidestjack.github.io/projects-placement-pages/) 我那些稀奇古怪的GitHub專案集合地<br>
+[部落格](https://stupidestjack.github.io/blog/) 想到才更
 
