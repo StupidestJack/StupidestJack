@@ -5,7 +5,7 @@
 [@Mamegoodbean2k](https://github.com/Mamegoodbean2k) 帳號的使用者。<br>
 因為repo太垃圾(加上想強調自己長大了)，所以棄用原帳號
 
-## 技術水平
+## 技術水平(咩比
 
 `=================    85% Python`<br>
 `============         60% JavaScript`<br>
