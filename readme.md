@@ -1,5 +1,5 @@
 # 這裡是StupidestJack
-## 一個多多少少有點神金的中學牲
+## 一個多多少少有點神金的國中生牲
 
 別對我專案有太大希望awa <br>
 [@Mamegoodbean2k](https://github.com/Mamegoodbean2k) 帳號的使用者。<br>
