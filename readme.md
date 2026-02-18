@@ -12,10 +12,10 @@
 * **愛好：** 寫程式、看影片、玩麥塊、~~男娘~~
 
 ### 📊 技術雷達 (Maybe)
-![Python](https://img.shields.io/badge/Python-85%25-blue?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-60%25-yellow?style=for-the-badge&logo=javascript)
-![C#](https://img.shields.io/badge/C%23-70%25-purple?style=for-the-badge&logo=c-sharp)
-![VB](https://img.shields.io/badge/VB-50%25-blueviolet?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-85%25-blue?style=for-the-badge&logo=python)<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-60%25-yellow?style=for-the-badge&logo=javascript)<br>
+![C#](https://img.shields.io/badge/C%23-70%25-purple?style=for-the-badge&logo=c-sharp)<br>
+![VB](https://img.shields.io/badge/VB-50%25-blueviolet?style=for-the-badge)<br>
 ![Brainf*ck](https://img.shields.io/badge/Brainf*ck-0%25-red?style=for-the-badge)
 
 ### 🔗 傳送門
