@@ -26,4 +26,4 @@
 
 ### 📂 使用說明 (README for Human)
 想了解更多關於本生物的互動方式？或是想看看面具下的真面目？
-[點此查看人類調教說明書](#) ```
+[點此查看人類調教說明書](https://www.youtube.com/watch?v=dQw4w9WgXcQ) ```
