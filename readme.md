@@ -12,12 +12,15 @@
 * **屬性：** 人類，目前正努力在代碼與現實間尋找平衡。
 * **愛好：** 寫程式、看影片、玩麥塊、~~男娘~~
 
-### 📊 技術雷達 (Maybe)
-![Python](https://img.shields.io/badge/Python-85%25-blue?style=for-the-badge&logo=python)<br>
-![JavaScript](https://img.shields.io/badge/JavaScript-60%25-yellow?style=for-the-badge&logo=javascript)<br>
-![C#](https://img.shields.io/badge/C%23-70%25-purple?style=for-the-badge&logo=c-sharp)<br>
-![VB](https://img.shields.io/badge/VB-50%25-blueviolet?style=for-the-badge)<br>
-![Brainf*ck](https://img.shields.io/badge/Brainf*ck-0%25-red?style=for-the-badge)
+### 📊 技能屬性（大概）
+| 語言 | 熟練度 | 備註 |
+| :--- | :--- | :--- |
+| **Python** | 85% | 好用愛用 |
+| **C# / VB** | 70% | .NET 是真爽 |
+| **JavaScript** | 60% | 難以理解1+"1"="11"|
+| **Assembly** | 30% | 國二生會這個信嗎 |
+| **Brainf_ck** | 0% | 進度持續停滯中，感覺良好 |
+
 
 ### 🔗 傳送門
 * [📦 專案櫃](https://stupidestjack.github.io/projects-placement-pages/) - 那些稀奇古怪的實驗性產物。
