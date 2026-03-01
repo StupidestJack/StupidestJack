@@ -24,8 +24,8 @@
 
 
 ### 🔗 傳送門
-* [📦 專案櫃](https://stupidestjack.github.io/projects-placement-pages/) - 那些稀奇古怪的實驗性產物。
-* [📝 部落格](https://stupidestjack.github.io/blog/) - 想到才更新的腦袋碎片。
+* [個人網站](https://stupidestjack.github.io/myWebsite/)
+* [X](https://x.com/stupidestjack/)
 
 ---
 
