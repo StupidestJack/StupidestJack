@@ -5,8 +5,9 @@
  - SSD：Kingston NV3 NVMe SSD (TC2201)
  - GPU：NVIDIA GeForce RTX 3050 Mobile
  - OS：Arch Linux (滾動更新懶的輸版本)
-> DE：Cinnamon 6.*6*.*7*
-> Terminal：Xfce4 Terminal
+   - DE：Cinnamon 6.*6*.*7*
+   - Terminal：Xfce4 Terminal
+   > *So NVIDIA, f\*\*k you!*
 
 ## 外出機
  - 型號：Acer Aspire K50-10-57E8
