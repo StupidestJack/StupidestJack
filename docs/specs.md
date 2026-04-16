@@ -27,7 +27,7 @@
 > 至少不是iPhone或Galaxy
 
 <!--
-既然你來看，那就接受洗禮吧
+既然你來看原始碼界面，那就接受洗禮吧awa
 We're no strangers to love
 You know the rules and so do I
 A full commitment's what I'm thinking of
