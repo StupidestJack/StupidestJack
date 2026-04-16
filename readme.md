@@ -35,4 +35,4 @@ aka Niugnep / 豆子
 [人類調教說明書](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ### 版權申明
-此Readme使用WTFPL (Do What The F\*\*k You Want To Do Public License) 開源，除了我的個資跟帳號等不開源
+此Readme使用WTFPL (Do What The F\*\*k You Want To Do Public License) 開源，除了我的個資、網站、帳號等，以及本來就受著作權保護的Rickroll不開源
