@@ -12,7 +12,7 @@ aka Niugnep / 豆子
 14歲<br>
 喜歡寫程式、看影片、玩麥塊、~~男娘~~
 
-### 技能屬性（大概）
+### 程式語言能力（咩比
 | 語言 | 熟練度 | 備註 |
 | :--- | :--- | :--- |
 | **Python** | 70% | 太久沒完功力生疏了 |
@@ -22,12 +22,16 @@ aka Niugnep / 豆子
 | **Assembly** | 3% | 國二生會這個信嗎 |
 | **Brainf_ck** | 0% | 跟彙編十分甚至九分像 |
 | **HTML** | -1% | 這不是程式語言啊 |
+| **Scratch** | -999% | 這是玩具:3 |
 
 
 ### 傳送門
 * [個人網站](https://stupidestjack.github.io/myWebsite/)
 * [X](https://x.com/stupidestjack/)
-
+ 
 ### 文件
 [裝備](/docs/specs.md)<br>
 [人類調教說明書](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+### 版權申明
+此Readme使用WTFPL (Do What The F\*\*k You Want To Do Public License) 開源，除了我的個資不開源
