@@ -32,5 +32,5 @@
 ---
 
 ### 文件
-[裝備](/docs/specs.md)
+[裝備](/docs/specs.md)<br>
 [人類調教說明書](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
