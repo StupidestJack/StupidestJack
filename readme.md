@@ -26,12 +26,13 @@ aka Niugnep / 豆子
 
 
 ### 傳送門
-* [個人網站](https://stupidestjack.github.io/myWebsite/)
-* [X](https://x.com/stupidestjack/)
+* [個人網站（半死狀態](https://stupidestjack.github.io/myWebsite/)
+* [X](https://x.com/stupidestjack)
+* [Discord伺服器](https://discord.gg/VQ9uNweSn9)
  
 ### 文件
 [裝備](/docs/specs.md)<br>
 [人類調教說明書](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ### 版權申明
-此Readme使用WTFPL (Do What The F\*\*k You Want To Do Public License) 開源，除了我的個資不開源
+此Readme使用WTFPL (Do What The F\*\*k You Want To Do Public License) 開源，除了我的個資跟帳號等不開源
