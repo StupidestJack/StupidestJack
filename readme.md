@@ -1,5 +1,6 @@
-# 這裡是 Niugnep
-## 一個隨機刷新的偏科神金中二
+# 這裡是 StupidestJack
+## 一個隨機刷新的中二
+aka Niugnep / 豆子
 
 > [!CAUTION]
 > 別對我的專案抱太大希望，我造的東西基本都有AI幫忙awa
@@ -7,16 +8,14 @@
 ---
 
 ### 關於我
-* **轉生者：** 原 [@Mamegoodbean2k](https://github.com/Mamegoodbean2k) 帳號使用者。
-* **年齡：** 14歲
-* **狀態：** 帳號重啟中，試圖證明自己已經長大了（大概）。
-* **屬性：** 人類，目前正努力在代碼與現實間尋找平衡。
-* **愛好：** 寫程式、看影片、玩麥塊、~~男娘~~
+原 [@Mamegoodbean2k](https://github.com/Mamegoodbean2k) 帳號使用者。<br>
+14歲<br>
+喜歡寫程式、看影片、玩麥塊、~~男娘~~
 
 ### 技能屬性（大概）
 | 語言 | 熟練度 | 備註 |
 | :--- | :--- | :--- |
-| **Python** | 80% | 太久沒完功力生疏了 |
+| **Python** | 70% | 太久沒完功力生疏了 |
 | **C#** | 85% | 太好玩了吧 |
 | **Visual Basic** | 40% | 英文不好慎入 |
 | **JavaScript** | 60% | 難以理解1+"1"="11"|
@@ -28,8 +27,6 @@
 ### 傳送門
 * [個人網站](https://stupidestjack.github.io/myWebsite/)
 * [X](https://x.com/stupidestjack/)
-
----
 
 ### 文件
 [裝備](/docs/specs.md)<br>
