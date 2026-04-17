@@ -12,7 +12,7 @@
 ## 外出機
  - 型號：Acer Aspire K50-10-57E8
  - CPU：6th Gen Intel(R) Core(TM) i5-6200U
- - RAM：4+8 DDR3-1666
+ - RAM：4+8 DDR3-1666 （沒錢啊
  - SSD：Anaconda 120GB (TB系列)
  - GPU：NVIDIA GeForce 920M (無驅動，畢竟有跟沒有一個樣)
  - OS：Windows 10 Home
