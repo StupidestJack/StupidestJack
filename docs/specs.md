@@ -25,6 +25,7 @@
  - ROM：512GB
  - OS：Android 15
 > 至少不是iPhone或Galaxy
+> 這種封閉到獵奇的手機
 
 <!--
 既然你來看原始碼界面，那就接受洗禮吧awa
