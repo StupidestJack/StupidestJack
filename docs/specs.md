@@ -24,7 +24,7 @@
  - RAM：12 GB
  - ROM：512GB
  - OS：Android 15
-> 至少不是iPhone或Galaxy
+> 至少不是iPhone或Galaxy<br>
 > 這種封閉到獵奇的手機
 
 <!--
