@@ -32,6 +32,7 @@ aka Niugnep / 豆子
 * [個人網站（半死狀態](https://stupidestjack.github.io/myWebsite/)
 * [X](https://x.com/stupidestjack)
 * [Discord伺服器](https://discord.gg/VQ9uNweSn9)
+* 至於Line，哪個正常人會喜歡用，你知道的，Line這坨ㄉㄅ，功能爛廣告多耗電快空間肥，最近這臭不要臉的逼還出了個Premium，迫於現實壓力你又不能不用，真的是建議送給反壟斷
  
 ### 文件
 [裝備](/docs/specs.md)<br>
