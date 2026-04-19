@@ -32,7 +32,6 @@ aka Niugnep / 豆子
 * [個人網站（半死狀態](https://stupidestjack.github.io/myWebsite/)
 * [X](https://x.com/stupidestjack)
 * [Discord伺服器](https://discord.gg/VQ9uNweSn9)
-* [至於Line，哪個正常人會喜歡用，你知道的，Line這坨ㄉㄅ，功能爛廣告多耗電快空間肥，最近這臭不要臉的逼還出了個Premium，迫於現實壓力你又不能不用，建議送給反壟斷](https://www.threads.com/@xilanceylan/post/DEjHVkoTwku?xmt=AQF0QFky2TPN7vdq5JW8Ry2gOhSDCe97mPVvCc8fpdXJL3uL_1kkH0XopplrdxzaK0S3VlIY&slof=1)
  
 ### 文件
 [裝備](/docs/specs.md)<br>
@@ -41,8 +40,7 @@ aka Niugnep / 豆子
 ### 版權申明
 此Readme使用WTFPL (Do What The F\*\*k You Want To Do Public License) 開源，<br>
 除了我的個資、網站、帳號等，<br>
-以及本來就受著作權保護的Rickroll<br>
-和來自他人的脆的串文不開源
+以及本來就受著作權保護的Rickroll不開源
 
 
 # SO NVIDIA F__K YOU
