@@ -29,9 +29,10 @@ aka Niugnep / 豆子
 
 
 ### 傳送門
-* [個人網站（半死狀態](https://stupidestjack.github.io/myWebsite/)
-* [X](https://x.com/stupidestjack)
+* [個人網站（生灰塵中](https://stupidestjack.github.io/myWebsite/)
+* [X / Twitter](https://x.com/stupidestjack)
 * [Discord伺服器](https://discord.gg/VQ9uNweSn9)
+* [聯繫用Email](mailto: mamegoodbean@gmail.com)
  
 ### 文件
 [裝備](/docs/specs.md)<br>
