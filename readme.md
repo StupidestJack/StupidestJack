@@ -6,6 +6,8 @@ aka Niugnep / 豆子
 > 別對我的專案抱太大希望，我造的東西基本都有AI幫忙awa<br>
 > 除了作業pwp
 
+![StupidestJack's GitHub stats](https://github-readme-stats.vercel.app/api?username=StupidestJack&show_icons=true&theme=gruvbox)
+
 ---
 
 ### 關於我
