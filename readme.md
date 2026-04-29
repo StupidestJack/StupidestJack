@@ -43,6 +43,4 @@ aka Niugnep / 豆子
 以及調教說明書不開源
 
 
-<h1 style="font-size:99px; color: red;">
-SO<br>NVIDIA<br>F__K<br>YOU
-</h1>
+# SO<br>NVIDIA<br>F__K<br>YOU
