@@ -10,3 +10,5 @@ if (i == 4) goto exit_final_really;
 // 提示：以上為偽代碼
 ```
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![StupidestJack's GitHub stats](https://github-readme-stats.vercel.app/api?username=StupidestJack&show_icons=true&theme=radical)
