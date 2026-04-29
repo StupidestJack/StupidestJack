@@ -35,14 +35,14 @@ aka Niugnep / 豆子
  
 ### 文件
 [裝備](/docs/specs.md)<br>
-[人類調教說明書](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[調教說明書](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ### 版權申明
 此Readme使用WTFPL (Do What The F\*\*k You Want To Do Public License) 開源，<br>
 除了我的個資、網站、帳號（包含其他倉庫）等，<br>
-以及本來就受著作權保護的Rickroll不開源
+以及調教說明書不開源
 
 
-# SO NVIDIA F__K YOU
-
-<!--傑哥不要啦-->
+<h1 style="font-size:99px;">
+SO<br>NVIDIA<br>F__K<br>YOU
+</h1>
