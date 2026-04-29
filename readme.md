@@ -45,4 +45,10 @@ aka Niugnep / 豆子
 以及調教說明書不開源
 
 
+
+
+
+
+都看到這裡了，不給個star再走嗎UwU
+
 # SO<br>NVIDIA<br>F__K<br>YOU
