@@ -7,5 +7,6 @@ if (i == 1) goto except;
 if (i == 2) goto file;
 if (i == 3) goto err2;
 if (i == 4) goto exit_final_really;
-// 提示：以上為偽代碼，然後我國二
+// 提示：以上為偽代碼
 ```
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
