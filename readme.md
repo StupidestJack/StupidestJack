@@ -30,7 +30,7 @@ aka Niugnep / 豆子
 
 
 ### 傳送門
-* [個人網站（生灰塵中](https://stupidestjack.github.io/myWebsite/)
+* [部落格](https://stupidestjack.github.io/blog/)
 * [X / Twitter](https://x.com/stupidestjack)
 * [Discord伺服器](https://discord.gg/VQ9uNweSn9)
 * [Email](mailto:niugnep87@proton.me)
