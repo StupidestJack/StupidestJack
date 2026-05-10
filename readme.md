@@ -33,7 +33,7 @@ aka Niugnep / 豆子
 * [個人網站（生灰塵中](https://stupidestjack.github.io/myWebsite/)
 * [X / Twitter](https://x.com/stupidestjack)
 * [Discord伺服器](https://discord.gg/VQ9uNweSn9)
-* [Email](mailto:mamegoodbean@gmail.com)
+* [Email](mailto:niugnep87@proton.me)
  
 ### 文件
 [裝備](/docs/specs.md)<br>
