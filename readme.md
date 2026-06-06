@@ -1,5 +1,5 @@
 # 這裡是 StupidestJack
-## 一個隨機刷新的中二
+## 一個年紀輕輕就爆肝的中二
 aka Niugnep / 豆子
 
 > [!CAUTION]
