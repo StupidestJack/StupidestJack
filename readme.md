@@ -8,9 +8,9 @@ aka Niugnep / 豆子
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryanchiu-1210/ryanchiu-1210/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryanchiu-1210/ryanchiu-1210/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/ryanchiu-1210/ryanchiu-1210/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StupidestJack/StupidestJack/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StupidestJack/StupidestJack/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/StupidestJack/StupidestJack/output/github-contribution-grid-snake.svg">
   </picture>
   <br/>
   <sub>Generated with <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
