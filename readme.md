@@ -6,7 +6,15 @@ aka Niugnep / 豆子
 > 別對我的專案抱太大希望，我造的東西基本都有AI幫忙awa<br>
 > 除了作業pwp
 
-![StupidestJack's GitHub stats](https://github-readme-stats.vercel.app/api?username=StupidestJack&show_icons=true&theme=gruvbox)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryanchiu-1210/ryanchiu-1210/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryanchiu-1210/ryanchiu-1210/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/ryanchiu-1210/ryanchiu-1210/output/github-contribution-grid-snake.svg">
+  </picture>
+  <br/>
+  <sub>Generated with <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
+</p>
 
 ---
 
