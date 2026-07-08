@@ -2,6 +2,8 @@
 ## 一個年紀輕輕就爆肝的中二
 aka Niugnep / 豆子
 
+[English](readme.md)
+
 > [!CAUTION]
 > 別對我的專案抱太大希望，我造的東西基本都有AI幫忙awa<br>
 > 除了作業pwp
