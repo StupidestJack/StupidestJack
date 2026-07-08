@@ -1,6 +1,8 @@
 # 😺 This is StupidestJack (Niugnep)
 ## 🎒 A junior high school student.
 
+[Would like Chinese?](readme-zh.md)
+
 > [!CAUTION]
 > Most of my projects are just for fun, and almost all of them use vibe coding.
 > So, don't expect them to be very useful!
