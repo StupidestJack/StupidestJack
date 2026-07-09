@@ -38,7 +38,7 @@
  - GPU：NVIDIA GeForce RTX 3050 Mobile
  - OS：Arch Linux
  - DE：KDE Plasma 6
- > *NVIDIA, f\*\*k you!* -- Linus Torvalds
+ > *NVIDIA, f\*\*k you!* — Linus Torvalds
 
 **💿 Secondary machine**
  - Model：Acer Aspire K50-10-57E8
@@ -64,7 +64,7 @@ This section collects personal readmes from several experts.
 * [ryanchiu-1210's](https://github.com/ryanchiu-1210/ryanchiu-1210/blob/main/README.md)
 * [percyhuang195's](https://github.com/percyhuang195/percyhuang195/blob/main/README.md)
 
-### ☎️ Content
+### 📫 Contact
 * [Discord Server](https://discord.gg/b5hZbKSerK)
 * [Email](mailto:niugnep87@proton.me)
 
