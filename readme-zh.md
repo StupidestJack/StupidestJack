@@ -59,6 +59,12 @@
  - OS：Android 16
  > 我很想刷，但我爸媽會把我趕出去。
 
+### 💈 Readmeroll
+這個區域專門放一些大佬的Readme。
+* [TW-YTFeathered's](https://github.com/TW-YTFeathered/TW-YTFeathered/blob/main/README.md)
+* [ryanchiu-1210's](https://github.com/ryanchiu-1210/ryanchiu-1210/blob/main/README.md)
+* [percyhuang195's](https://github.com/percyhuang195/percyhuang195/blob/main/README.md)
+
 ### ☎️ 聯繫我
 * [Discord Server](https://discord.gg/b5hZbKSerK)
 * [Email](mailto:niugnep87@proton.me)
