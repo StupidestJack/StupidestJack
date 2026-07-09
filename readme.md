@@ -44,7 +44,7 @@
  - Model：Acer Aspire K50-10-57E8
  - CPU：6th Gen Intel(R) Core(TM) i5-6200U
  - RAM：4+8 DDR3-1666 (I have no money)
- - SSD：TOSHIBA 500GB HDD 
+ - HDD：TOSHIBA 500GB HDD 
  - GPU：NVIDIA GeForce 920M (with no driver)
  - OS：Arch Linux
  - DE：Xfce4
