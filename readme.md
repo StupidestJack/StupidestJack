@@ -59,7 +59,7 @@
  > I'd love to flash it, but my parents would kick me out.
 
 ### ☎️ Content
-* [Discord Server]((https://discord.gg/b5hZbKSerK))
+* [Discord Server](https://discord.gg/b5hZbKSerK)
 * [Email](mailto:niugnep87@proton.me)
 
 ### 📜 License
