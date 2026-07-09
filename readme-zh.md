@@ -18,6 +18,12 @@
   <sub>Generated with <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
 </p>
 
+### 🐙 我的 GitHub 狀態
+<img src="https://github-readme-stats-six-omega-30.vercel.app/api?username=StupidestJack&show_icons=true&theme=radical&include_all_commits=true&count_private=false&exclude_forks=true&border_radius=12&bg_color=0d1117&title_color=00D4FF&icon_color=ff6b9d&text_color=ffffff&border_color=533483"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats-six-omega-30.vercel.app/api/top-langs/?username=StupidestJack&layout=compact&theme=radical&exclude_forks=true&border_radius=12&bg_color=0d1117&title_color=00D4FF&text_color=ffffff&border_color=533483&langs_count=16"/>
+
+
 ### 🐱 關於我
  * 十四歲的國中生。
  * 自由軟體愛好者
@@ -39,7 +45,7 @@
  - 型號：Acer Aspire K50-10-57E8
  - CPU：6th Gen Intel(R) Core(TM) i5-6200U
  - RAM：4+8 DDR3-1666 (I have no money)
- - SSD：TOSHIBA 500GB HDD 
+ - HDD：TOSHIBA 500GB HDD 
  - GPU：NVIDIA GeForce 920M (with no driver)
  - 系統：Arch Linux
  - 桌面環境：Xfce4
@@ -53,9 +59,8 @@
  - OS：Android 16
  > 我很想刷，但我爸媽會把我趕出去。
 
-### 🚪 傳送門
-* [部落格（中文）](https://stupidestjack.github.io/)
-* [X / Twitter](https://x.com/stupidestjack)
+### ☎️ 聯繫我
+* [Discord Server](https://discord.gg/b5hZbKSerK)
 * [Email](mailto:niugnep87@proton.me)
 
 ### 📜 授權
