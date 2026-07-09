@@ -53,9 +53,8 @@
  - OS：Android 16
  > I'd love to flash it, but my parents would kick me out.
 
-### 🚪 Portals
-* [Blog (Chinese)](https://stupidestjack.github.io/)
-* [X / Twitter](https://x.com/stupidestjack)
+### ☎️ Content
+* [Discord Server]((https://discord.gg/b5hZbKSerK))
 * [Email](mailto:niugnep87@proton.me)
 
 ### 📜 License
