@@ -1,4 +1,4 @@
-# 😺 這裡是 StupidestJack (Niugnep)
+# 🐧 這裡是 StupidestJack (Niugnep)
 ## 🎒 一個國中生。
 
 [English](readme.md)
@@ -64,6 +64,7 @@
 * [TW-YTFeathered](https://github.com/TW-YTFeathered/TW-YTFeathered/blob/main/README.md)
 * [ryanchiu-1210](https://github.com/ryanchiu-1210/ryanchiu-1210/blob/main/README.md)
 * [percyhuang195](https://github.com/percyhuang195/percyhuang195/blob/main/README.md)
+* [Leaf_0223](https://github.com/51511/51511/blob/main/README.md)
 
 ### ☎️ 聯繫我
 * [Discord Server](https://discord.gg/b5hZbKSerK)
