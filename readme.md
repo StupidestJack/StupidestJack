@@ -1,4 +1,4 @@
-# 😺 This is StupidestJack (Niugnep)
+# 🐧 This is StupidestJack (Niugnep)
 ## 🎒 A junior high school student.
 
 [Chinese](readme-zh.md)
