@@ -29,35 +29,6 @@
  * Uses Arch btw. (sybau)
  * Likes programming, watching videos, Minecraft, ~~and femboys~~
 
-### 💼 Devices
-**💻 Main machine**
- - Model: GIGABYTE G5 GE
- - CPU：12th Gen Intel(R) Core(TM) i5-12500H
- - RAM：8 + 8 GiB DDR4-3200
- - SSD：Kingston NV3 NVMe SSD (TC2201)
- - GPU：NVIDIA GeForce RTX 3050 Mobile
- - OS：Arch Linux
- - DE：KDE Plasma 6
- > *NVIDIA, f\*\*k you!* — Linus Torvalds
-
-**💿 Secondary machine**
- - Model：Acer Aspire K50-10-57E8
- - CPU：6th Gen Intel(R) Core(TM) i5-6200U
- - RAM：4+8 DDR3-1666 (I have no money)
- - HDD：TOSHIBA 500GB HDD 
- - GPU：NVIDIA GeForce 920M (with no driver)
- - OS：Arch Linux
- - DE：Xfce4
- > Linux on an HDD is too smoooooooth! (compared to Microslop Windows)
-
-**📱 Smartphone**
- - Model：Motorola Razr 40 Ultra
- - SoC：Snapdragon 8+ Gen 1
- - RAM：12 GB
- - Storage：512GB
- - OS：Android 16
- > I'd love to flash it, but my parents would kick me out.
-
 ### 💈 Readmeroll 
 This section collects personal readmes from several experts.
 * [TW-YTFeathered's](https://github.com/TW-YTFeathered/TW-YTFeathered/blob/main/README.md)
