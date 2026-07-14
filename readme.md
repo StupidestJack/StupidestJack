@@ -38,7 +38,7 @@ This section collects personal readmes from several experts.
 
 ### 📫 Contact
 * [Discord Server](https://discord.gg/b5hZbKSerK)
-* [Email](mailto:niugnep87@proton.me)
+* [Email](mailto:penguin@niugnep.idv.tw)
 
 ### 📜 License
 This README is licensed under the WTFPL (Do What The F\*\*k You Want To Public License).  
