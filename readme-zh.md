@@ -68,7 +68,7 @@
 
 ### ☎️ 聯繫我
 * [Discord Server](https://discord.gg/b5hZbKSerK)
-* [Email](mailto:niugnep87@proton.me)
+* [Email](penguin@niugnep.idv.tw)
 
 ### 📜 授權
 這個README採用WTFPL(Do What The F\*\*k You Want To Public License)授權。
