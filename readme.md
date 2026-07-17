@@ -35,6 +35,7 @@ This section collects personal readmes from several experts.
 * [ryanchiu-1210's](https://github.com/ryanchiu-1210/ryanchiu-1210/blob/main/README.md)
 * [percyhuang195's](https://github.com/percyhuang195/percyhuang195/blob/main/README.md)
 * [Leaf_0223's](https://github.com/51511/51511/blob/main/README.md)
+* [SamHacker's](https://github.com/510208/510208/blob/main/README.md)
 
 ### 📫 Contact
 * [Discord Server](https://discord.gg/b5hZbKSerK)
