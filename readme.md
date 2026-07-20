@@ -32,35 +32,32 @@
 ### 🍓 Skills
  > Sort by alphabetical order.
 
-**Programming Languages**  
- * Batch
- * C
- * C#
- * C++
- * CSS
- * HTML
- * Java
- * JavaScript
- * Kotlin
- * Python
- * Shell
- * Visual Basic
-
-**Not Programming Languages**
- * apt
- * Arch Linux
- * Codeberg
- * Debian Linux
- * Discord
- * dnf
- * Fedora Linux
- * Git
- * GitHub
- * pacman
- * PowerPoint
- * Ubuntu Linux
- * Visio (UML only)
- * Windows
+![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Visual Basic](https://img.shields.io/badge/Visual_Basic-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)  
+![apt](https://img.shields.io/badge/apt-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![Codeberg](https://img.shields.io/badge/Codeberg-21497A?style=flat-square&logo=codeberg&logoColor=white)
+![Debian Linux](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
+![dnf](https://img.shields.io/badge/dnf-3C6EB4?style=flat-square&logo=fedora&logoColor=white)
+![Fedora Linux](https://img.shields.io/badge/Fedora-3C6EB4?style=flat-square&logo=fedora&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![pacman](https://img.shields.io/badge/pacman-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
+![Ubuntu Linux](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Visio](https://img.shields.io/badge/Visio_(UML)-3B7BBF?style=flat-square&logo=microsoft&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 
 ### 🏅 Achievements
  > For your conscience, please don't dox me.
