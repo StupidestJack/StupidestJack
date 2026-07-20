@@ -23,6 +23,10 @@
 &nbsp;&nbsp;
 <img src="https://github-readme-stats-six-omega-30.vercel.app/api/top-langs/?username=StupidestJack&layout=compact&theme=radical&exclude_forks=true&border_radius=12&bg_color=0d1117&title_color=00D4FF&text_color=ffffff&border_color=533483&langs_count=16"/>
 
+### 🍓 Skills
+ > Sort by alphabetical order.
+(Uncompleted)
+
 ### 🐱 About me
  * A 14-year-old student.
  * A FOSS lover.
