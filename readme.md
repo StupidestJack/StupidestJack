@@ -25,7 +25,11 @@
 
 ### 🍓 Skills
  > Sort by alphabetical order.
-(Uncompleted)
+**Programming Langueges**
+| Batch | C | C# | C++|
+| CSS | HTML | Java | JavaScript|
+| Kotlin | Python | Shell | Visual Basic |
+
 
 ### 🐱 About me
  * A 14-year-old student.
