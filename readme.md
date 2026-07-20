@@ -62,6 +62,13 @@
  * Visio (UML only)
  * Windows
 
+### 🏅 Achievements
+ > For your conscience, please don't dox me.
+
+ * ITS Python - passed
+ * ITS JavaScript - passed
+ * 56th Skill Competitions (Junior Group Business Software Design) Divisional Tournament - bronze
+
 ### 💈 Readmeroll 
 This section collects personal readmes from several experts.
 * [TW-YTFeathered's](https://github.com/TW-YTFeathered/TW-YTFeathered/blob/main/README.md)
