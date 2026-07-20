@@ -30,34 +30,47 @@
  * 對了，我用Arch (閉嘴)
  * 喜歡寫程式、看影片、Minecraft，~~跟男娘~~。
 
-### 💼 設備
-**💻 主力機**
- - 型號: GIGABYTE G5 GE
- - CPU：12th Gen Intel(R) Core(TM) i5-12500H
- - RAM：8 + 8 GiB DDR4-3200
- - SSD：Kingston NV3 NVMe SSD (TC2201)
- - GPU：NVIDIA GeForce RTX 3050 Mobile
- - 系統：Arch Linux
- - 桌面環境：KDE Plasma 6
- > *NVIDIA, f\*\*k you!* -- Linus Torvalds
+ ### 🍓 技能
 
-**💿 第二裝置**
- - 型號：Acer Aspire K50-10-57E8
- - CPU：6th Gen Intel(R) Core(TM) i5-6200U
- - RAM：4+8 DDR3-1666 (I have no money)
- - HDD：TOSHIBA 500GB HDD 
- - GPU：NVIDIA GeForce 920M (with no driver)
- - 系統：Arch Linux
- - 桌面環境：Xfce4
- > Linux在HDD上好流暢啊啊啊啊啊！ (跟Microslop Windows比較的話)
+ > 按照字母排序。
 
-**📱 手機**
- - 型號：Motorola Razr 40 Ultra
- - SoC：Snapdragon 8+ Gen 1
- - RAM：12 GB
- - 儲存空間：512GB
- - OS：Android 16
- > 我很想刷，但我爸媽會把我趕出去。
+**程式語言**  
+ * Batch
+ * C
+ * C#
+ * C++
+ * CSS
+ * HTML
+ * Java
+ * JavaScript
+ * Kotlin
+ * Python
+ * Shell
+ * Visual Basic
+
+**非程式語言**
+ * apt
+ * Arch Linux
+ * Codeberg
+ * Debian Linux
+ * Discord
+ * dnf
+ * Fedora Linux
+ * Git
+ * GitHub
+ * pacman
+ * PowerPoint
+ * Ubuntu Linux
+ * Visio (UML only)
+ * Windows
+
+
+### 🏅 成就
+ > 出於你的良心，請不要肉搜我。
+
+ * ITS Python - 通過
+ * ITS JavaScript - 通過
+ * 第56屆全國技能競賽 (青少年組商務軟體設計) 分區賽 - 銅牌
 
 ### 💈 Readmeroll
 這個區域專門放一些大佬的Readme。
