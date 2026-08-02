@@ -64,7 +64,7 @@
 
  * ITS Python - passed
  * ITS JavaScript - passed
- * 56th Skill Competitions (Junior Group Business Software Design) Divisional Tournament - bronze
+ * 56th National Skills Competition Software Application Development for Junior - bronze
 
 ### 💈 Readmeroll 
 This section collects personal readmes from several experts.
