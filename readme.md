@@ -1,4 +1,4 @@
-I'm a strange junior high school student. Nice to meet you.
+Just a 14-year-old FOSS lover.
 
 ## Niugnep's Best Projects
  * [ResendMailer](https://github.com/StupidestJack/ResendMailer): A lightweight Python-based Resend TUI mailer
