@@ -29,6 +29,8 @@ I'm a strange junior high school student. Nice to meet you.
   <sub>Generated with <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
 </p>
 
+<div align="center">
 <img src="https://github-readme-stats-six-omega-30.vercel.app/api?username=StupidestJack&show_icons=true&theme=radical&include_all_commits=true&count_private=false&exclude_forks=true&border_radius=12&bg_color=0d1117&title_color=00D4FF&icon_color=ff6b9d&text_color=ffffff&border_color=533483"/>
 
 <img src="https://github-readme-stats-six-omega-30.vercel.app/api/top-langs/?username=StupidestJack&layout=compact&theme=radical&exclude_forks=true&border_radius=12&bg_color=0d1117&title_color=00D4FF&text_color=ffffff&border_color=533483&langs_count=16"/>
+</div>
