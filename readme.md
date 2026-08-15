@@ -17,3 +17,10 @@ Just a 14-year-old FOSS lover.
  * Matrix: @niugnep65535:matrix.org
  * Codeberg: [@niugnep87](https://codeberg.org/niugnep87)
  * GnuPG: [E3 4C 2A 9E 2A 5F D9 DA](gnupg_public.asc)
+
+```asm
+mov rax, 60
+mov rdi, 0
+syscall
+; uhh it's AI slop code
+```
