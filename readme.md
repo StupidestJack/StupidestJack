@@ -20,4 +20,4 @@ Just a 14-year-old FOSS lover.
 
 ---
 
-By the way I use Debian; but it's not important information awa
+By the way I use Debian; but no one asked lol.
