@@ -10,7 +10,7 @@ Just a 14-year-old FOSS lover.
 
 ## Niugnep's websites
  * [Niugnep's blog](https://niugnep.idv.tw/): Niugnep's Chinese blog.
- * [Where is my Qiqi?](https://qiqi.niugnep.idv.tw/): An one-page website about Play Genshin Impact on Arch Linux.
+ * [Where is my Qiqi?](https://qiqi.niugnep.idv.tw/): A meme-style one-page website about playing Genshin Impact on Arch Linux.
 
 ## Contact
  * Email: [penguin@niugnep.idv.tw](mailto:penguin@niugnep.idv.tw)
@@ -18,4 +18,6 @@ Just a 14-year-old FOSS lover.
  * Codeberg: [@niugnep87](https://codeberg.org/niugnep87)
  * GnuPG: [E3 4C 2A 9E 2A 5F D9 DA](gnupg_public.asc)
 
-I use Debian, btw.
+---
+
+By the way I use Debian; but it's not important information awa
