@@ -1,4 +1,5 @@
-Just a 14-year-old FOSS lover.
+Just a 14-year-old FOSS lover.  
+I'm StupidestJack, but call me Niugnep first ;)
 
 ## Niugnep's Best Projects
  * [ResendMailer](https://github.com/StupidestJack/ResendMailer): A lightweight Python-based Resend TUI mailer
