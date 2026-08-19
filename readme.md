@@ -8,7 +8,7 @@ Just a 14-year-old FOSS lover.
  * [ryanchiu-1210](https://github.com/ryanchiu-1210)/[typingPractice_Console](https://github.com/ryanchiu-1210/typingPractice_Console): A console typing practice program.
  * [SkyWu623](https://github.com/SkyWu623)/[FakegoogleChrome](https://github.com/SkyWu623/FakegoogleChrome): A WebView2-based browser, and more things.
 
-## Niugnep's websites
+## Niugnep's Websites
  * [Niugnep's blog](https://niugnep.idv.tw/): Niugnep's Chinese blog.
  * [Where is my Qiqi?](https://qiqi.niugnep.idv.tw/): A meme-style one-page website about playing Genshin Impact on Arch Linux.
 
