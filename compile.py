@@ -19,7 +19,7 @@ for _ in range(20):
     soft += random.randint(0, 100)
     
     # 只有 Linux / BSD 才會觸發骨頭消融
-    if soft > 150 and is_posix_target:
+    if soft > 1700 and is_posix_target:
         bones = None # 直接重置變數內容
 
 print()
