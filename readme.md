@@ -2,7 +2,7 @@ Just a 14-year-old FOSS lover.
 I'm `StupidestJack`, but call me `Niugnep` first owo
 
 ## Achievements
-I don't write my achievements on my GitHub. I'll write if you can compile me until I'm soft >w<
+I don't write my achievements on my GitHub. I'll write if you can [compile](compile.py) me until I'm soft >w<
 
 ## Best Projects
  * [ResendMailer](https://github.com/StupidestJack/ResendMailer): A lightweight Python-based Resend TUI mailer
