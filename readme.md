@@ -47,7 +47,7 @@ A meme-style one-page website about playing Genshin Impact on Arch Linux.
 Email  
 [penguin@niugnep.idv.tw](mailto:penguin@niugnep.idv.tw)
 
-Matrix
+Matrix  
 @niugnep65535:matrix.org  
 
 Codeberg  
