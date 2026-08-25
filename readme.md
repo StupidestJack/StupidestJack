@@ -22,4 +22,4 @@ I'm `StupidestJack`, but call me `Niugnep` first owo
 
 ---
 
-By the way I use Debian; but no one asked lol.
+By the way I use Kubuntu; but no one asked lol.
