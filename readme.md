@@ -1,5 +1,4 @@
-<div align="center">
-<img width="100%" height="114px" alt="chicken-nugget-spinning" src="chicken-nugget-spinning.gif" />
+`emerge -av1 person/niugnep catears cattail -mandarin -math -english -social`
 
 # StupidestJack
 Just a 14-year-old FOSS lover.  
