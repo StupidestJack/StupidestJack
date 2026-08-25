@@ -19,8 +19,6 @@ I'm `StupidestJack`, but call me `Niugnep` first owo
 Who f\*\*king cares?  
 Alright. If you care, and you can speak Chinese, checkout [this](https://niugnep.idv.tw/about/achievements.html).
 
----
-
 ## Best Projects
 [ResendMailer](https://github.com/StupidestJack/ResendMailer)  
 A lightweight Python-based Resend TUI mailer
@@ -44,8 +42,6 @@ Niugnep's Chinese blog.
 
 [Where is my Qiqi?](https://qiqi.niugnep.idv.tw/)  
 A meme-style one-page website about playing Genshin Impact on Arch Linux.
-
----
 
 ## Contact
 Email  
