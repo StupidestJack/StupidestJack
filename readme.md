@@ -1,4 +1,4 @@
-<img width="800" height="200" alt="chicken-nugget-spinning" src="chicken-nugget-spinning.gif" />
+<img width="100%" height="114px" alt="chicken-nugget-spinning" src="chicken-nugget-spinning.gif" />
 
 
 Just a 14-year-old FOSS lover.  
