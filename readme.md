@@ -2,23 +2,10 @@ Just a 14-year-old FOSS lover.
 I'm `StupidestJack`, but call me `Niugnep` first owo
 
 ## Stack
- * HTML 5
- * CSS 3
- * JavaScript
- * Python
- * Git & GitHub
- * C#.NET
- * C
- * Kotlin
- * Tkinter
- * Shell
- * Bash
- * GNU Coreutils
- * Arch Linux
- * Ubuntu
- * DEB package building
- * Cloudflare
- * Markdown
+|HTML 5|CSS 3|JavaScript|Python|  
+|Git & GitHub|C#.NET|C|Kotlin|  
+|Tkinter|Shell|Bash|GNU Coreutils|  
+|Arch Linux|Ubuntu|DEB package building|Cloudflare|  
 
 ## GitHub Status
 ![](https://github-readme-stats.shion.dev/api?username=StupidestJack&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
