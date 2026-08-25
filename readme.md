@@ -7,7 +7,7 @@ I'm `StupidestJack`, but call me `Niugnep` first owo
 
 ## Stack
 ![](https://skillicons.dev/icons?i=html,css,js,py,git,github,cs,dotnet,c)  
-![](https://skillicons.dev/icons?i=kotlin,bash,linux,arch,ubuntu,debian,cloudflare,md)
+![](https://skillicons.dev/icons?i=kotlin,bash,linux,arch,jquery,ubuntu,debian,cloudflare,md)
 
 ## GitHub Status
 ![](https://github-readme-stats.shion.dev/api?username=StupidestJack&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
