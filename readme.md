@@ -1,4 +1,7 @@
-`emerge -av1 person/niugnep catears cattail -mandarin -math -english -social`
+<div align='center'>
+<image src="chicken-nugget-spinning.gif" width="100%" height="150px">
+
+`CFLAGS = -catears -cattail -O0mandarin -O0math -O0english -O0social -O0science`
 
 # StupidestJack
 Just a 14-year-old FOSS lover.  
