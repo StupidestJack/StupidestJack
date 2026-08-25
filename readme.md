@@ -1,11 +1,11 @@
-<div align='center'>
-<img width="100%" height="250px" src="keepandroidopen.png" alt="KeEpAnDrOiDoPeN">
-  
-`CFLAGS = -catears -cattail -O0mandarin -O0math -O0english -O0social -O0science`
+<div align='center'>  
+
+<!--我突然想到，我們班導就是國文老師-->
+`CFLAGS = -catears -cattail -O0mandarin -O0science` ᓚᘏᗢ
 
 # StupidestJack
-Just a 14-year-old FOSS lover.  
-I'm `StupidestJack`, but call me `Niugnep` first owo
+Just a 14-year-old FOSS lover (˶˃ ᵕ ˂˶)  
+I'm `StupidestJack`, but call me `Niugnep` first (ﾉ◕ヮ◕)ﾉ*.✧
 
 ## Stack
 ![](https://skillicons.dev/icons?i=html,css,js,py,git,github,cs,dotnet,c)  
@@ -18,7 +18,7 @@ I'm `StupidestJack`, but call me `Niugnep` first owo
 <!-- GitHub Status section made by GPRM ( https://gprm.itsvg.in ) -->
 
 ## Achievements
-Who f\*\*king cares?  
+Who cares? /ᐠ - ˕ -マ ᶻ 𝗓 𐰁  
 Alright. If you care, and you can speak Chinese, checkout [this](https://niugnep.idv.tw/about/achievements.html).
 
 ## Best Projects
@@ -60,6 +60,6 @@ GnuPG(OpenPGP)
 
 ---
 
-By the way I use Kubuntu; but no one asked lol.
+By the way I use Kubuntu; but no one asked ≽^- ˕ -^≼
 
 </div>
