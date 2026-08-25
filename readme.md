@@ -1,7 +1,7 @@
 <div align="center">
 <img width="100%" height="114px" alt="chicken-nugget-spinning" src="chicken-nugget-spinning.gif" />
 
-
+# StupidestJack
 Just a 14-year-old FOSS lover.  
 I'm `StupidestJack`, but call me `Niugnep` first owo
 
