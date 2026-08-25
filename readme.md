@@ -1,9 +1,6 @@
 Just a 14-year-old FOSS lover.  
 I'm `StupidestJack`, but call me `Niugnep` first owo
 
-## Achievements
-I don't write my achievements on my GitHub.
-
 ## Best Projects
  * [ResendMailer](https://github.com/StupidestJack/ResendMailer): A lightweight Python-based Resend TUI mailer
  * [NightlyTree](https://github.com/StupidestJack/NightlyTree): A lightweight night light application, based on .NET Framework 2.0
