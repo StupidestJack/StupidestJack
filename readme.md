@@ -15,6 +15,10 @@ I'm `StupidestJack`, but call me `Niugnep` first owo
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=StupidestJack&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!-- GitHub Status section made by GPRM ( https://gprm.itsvg.in ) -->
 
+## Achievements
+Who f\*\*king cares?  
+Alright. If you care, and you can speak Chinese, checkout [this](https://niugnep.idv.tw/about/achievements.html).
+
 ---
 
 ## Best Projects
