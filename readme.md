@@ -1,5 +1,5 @@
 <div align='center'>
-<img width="100%" height="150px" src="keepandroidopen.png" alt="KeEpAnDrOiDoPeN">
+<img width="100%" height="250px" src="keepandroidopen.png" alt="KeEpAnDrOiDoPeN">
   
 `CFLAGS = -catears -cattail -O0mandarin -O0math -O0english -O0social -O0science`
 
