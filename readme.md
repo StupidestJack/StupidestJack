@@ -5,7 +5,8 @@
 
 # StupidestJack
 Just a 14-year-old FOSS lover (˶˃ ᵕ ˂˶)  
-I'm `StupidestJack`, but call me `Niugnep` first (ﾉ◕ヮ◕)ﾉ*.✧
+I'm `StupidestJack`, but call me `Niugnep` first (ﾉ◕ヮ◕)ﾉ*.✧  
+I hate creepypasta, NEVER include those in PR or issues!(╥﹏╥)
 
 ## Stack
 ![](https://skillicons.dev/icons?i=html,css,js,py,git,github,cs,dotnet,c)  
