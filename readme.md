@@ -1,6 +1,33 @@
 Just a 14-year-old FOSS lover.  
 I'm `StupidestJack`, but call me `Niugnep` first owo
 
+## Stack
+ * HTML 5
+ * CSS 3
+ * JavaScript
+ * Python
+ * Git & GitHub
+ * C#.NET
+ * C
+ * Kotlin
+ * Tkinter
+ * Shell
+ * Bash
+ * GNU Coreutils
+ * Arch Linux
+ * Ubuntu
+ * DEB package building
+ * Cloudflare
+ * Markdown
+
+## GitHub Status
+![](https://github-readme-stats.shion.dev/api?username=StupidestJack&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=StupidestJack&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=StupidestJack&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- GitHub Status section made by GPRM ( https://gprm.itsvg.in ) -->
+
+---
+
 ## Best Projects
  * [ResendMailer](https://github.com/StupidestJack/ResendMailer): A lightweight Python-based Resend TUI mailer
  * [NightlyTree](https://github.com/StupidestJack/NightlyTree): A lightweight night light application, based on .NET Framework 2.0
@@ -14,11 +41,7 @@ I'm `StupidestJack`, but call me `Niugnep` first owo
  * [Niugnep's blog](https://niugnep.idv.tw/): Niugnep's Chinese blog.
  * [Where is my Qiqi?](https://qiqi.niugnep.idv.tw/): A meme-style one-page website about playing Genshin Impact on Arch Linux.
 
-## GitHub Status
-![](https://github-readme-stats.shion.dev/api?username=StupidestJack&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=StupidestJack&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=StupidestJack&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<!-- GitHub Status section made by GPRM ( https://gprm.itsvg.in ) -->
+---
 
 ## Contact
  * Email: [penguin@niugnep.idv.tw](mailto:penguin@niugnep.idv.tw)
