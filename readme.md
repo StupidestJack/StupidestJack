@@ -18,8 +18,8 @@ I'm `StupidestJack`, but call me `Niugnep` first owo
 ![](https://github-readme-stats.shion.dev/api?username=StupidestJack&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=StupidestJack&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=StupidestJack&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- GitHub Status section made by GPRM ( https://gprm.itsvg.in ) -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## Contact
  * Email: [penguin@niugnep.idv.tw](mailto:penguin@niugnep.idv.tw)
  * Matrix: @niugnep65535:matrix.org
