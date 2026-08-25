@@ -22,27 +22,27 @@ Who f\*\*king cares?
 Alright. If you care, and you can speak Chinese, checkout [this](https://niugnep.idv.tw/about/achievements.html).
 
 ## Best Projects
-[ResendMailer](https://github.com/StupidestJack/ResendMailer)  
+**[ResendMailer](https://github.com/StupidestJack/ResendMailer)**  
 A lightweight Python-based Resend TUI mailer
 
-[NightlyTree](https://github.com/StupidestJack/NightlyTree)  
+**[NightlyTree](https://github.com/StupidestJack/NightlyTree)**  
 A lightweight night light application, based on .NET Framework 2.0
 
-[Debian2WindowsRepo](https://github.com/StupidestJack/Debian2WindowsRepo)  
+**[Debian2WindowsRepo](https://github.com/StupidestJack/Debian2WindowsRepo)**  
 A Debian apt repository for 'Transfer Windows to Linux' bullsh*t projects.
 
 ## Contributed Projects
-[ryanchiu-1210](https://github.com/ryanchiu-1210)/[typingPractice_Console](https://github.com/ryanchiu-1210/typingPractice_Console)  
+**[ryanchiu-1210](https://github.com/ryanchiu-1210)/[typingPractice_Console](https://github.com/ryanchiu-1210/typingPractice_Console)**  
 A console typing practice program.
 
-[SkyWu623](https://github.com/SkyWu623)/[FakegoogleChrome](https://github.com/SkyWu623/FakegoogleChrome)  
+**[SkyWu623](https://github.com/SkyWu623)/[FakegoogleChrome](https://github.com/SkyWu623/FakegoogleChrome)**  
 A WebView2-based browser, and more things.
 
 ## Websites
-[Niugnep's blog](https://niugnep.idv.tw/)
+**[Niugnep's blog](https://niugnep.idv.tw/)**
 Niugnep's Chinese blog.
 
-[Where is my Qiqi?](https://qiqi.niugnep.idv.tw/)  
+**[Where is my Qiqi?](https://qiqi.niugnep.idv.tw/)**  
 A meme-style one-page website about playing Genshin Impact on Arch Linux.
 
 ## Contact
