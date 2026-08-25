@@ -14,6 +14,12 @@ I'm `StupidestJack`, but call me `Niugnep` first owo
  * [Niugnep's blog](https://niugnep.idv.tw/): Niugnep's Chinese blog.
  * [Where is my Qiqi?](https://qiqi.niugnep.idv.tw/): A meme-style one-page website about playing Genshin Impact on Arch Linux.
 
+## GitHub Status
+![](https://github-readme-stats.shion.dev/api?username=StupidestJack&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=StupidestJack&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=StupidestJack&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## Contact
  * Email: [penguin@niugnep.idv.tw](mailto:penguin@niugnep.idv.tw)
  * Matrix: @niugnep65535:matrix.org
