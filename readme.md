@@ -13,9 +13,9 @@ I hate creepypasta, NEVER include those in PR or issues!
 ![](https://skillicons.dev/icons?i=kotlin,bash,linux,arch,jquery,ubuntu,debian,cloudflare,md)
 
 ## GitHub Status
-![](https://github-readme-stats.shion.dev/api?username=StupidestJack&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=StupidestJack&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=StupidestJack&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+|![](https://github-readme-stats.shion.dev/api?username=StupidestJack&theme=dark&hide_border=false&include_all_commits=false&count_private=false)|![](https://streak-stats.demolab.com/?user=StupidestJack&theme=dark&hide_border=false)|
+|:--:|:--:|
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=StupidestJack&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StupidestJack&theme=github_dark)|
 <!-- GitHub Status section made by GPRM ( https://gprm.itsvg.in ) -->
 
 ## Achievements
