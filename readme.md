@@ -1,11 +1,11 @@
 <div align='center'>  
 
 <!--我突然想到，我們班導就是國文老師-->
-`CFLAGS = -catears -cattail -O0mandarin -O0science` ᓚᘏᗢ
+`CFLAGS = -catears -cattail -O0mandarin -O0science`
 
 # StupidestJack
-Just a 14-year-old FOSS lover (˶˃ ᵕ ˂˶)  
-I'm `StupidestJack`, but call me `Niugnep` first (ﾉ◕ヮ◕)ﾉ*.✧  
+Just a 14-year-old FOSS lover.
+I'm `StupidestJack`, but call me `Niugnep` first.
 I hate creepypasta, NEVER include those in PR or issues!(╥﹏╥)
 
 ## Stack
@@ -19,8 +19,8 @@ I hate creepypasta, NEVER include those in PR or issues!(╥﹏╥)
 <!-- GitHub Status section made by GPRM ( https://gprm.itsvg.in ) -->
 
 ## Achievements
-Who cares? /ᐠ - ˕ -マ ᶻ 𝗓 𐰁  
-Alright. If you care, and you can speak Chinese, checkout [this](https://niugnep.idv.tw/about/achievements.html).
+Bronze Medal - IT Software Solutions for Business (Junior), 56th National Skills Competition
+Bronze Medal - IT Software Solutions for Business (Junior), 56th National Skills Competition - Northern Region
 
 ## Best Projects
 **[ResendMailer](https://github.com/StupidestJack/ResendMailer)**  
