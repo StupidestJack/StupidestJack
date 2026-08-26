@@ -4,8 +4,8 @@
 `CFLAGS = -catears -cattail -O0mandarin -O0science`
 
 # StupidestJack
-Just a 14-year-old FOSS lover.　　
-I'm `StupidestJack`, but call me `Niugnep` first.　　
+Just a 14-year-old FOSS lover.  
+I'm `StupidestJack`, but call me `Niugnep` first.  
 I hate creepypasta, NEVER include those in PR or issues!
 
 ## Stack
