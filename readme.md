@@ -4,9 +4,9 @@
 `CFLAGS = -catears -cattail -O0mandarin -O0science`
 
 # StupidestJack
-Just a 14-year-old FOSS lover.
-I'm `StupidestJack`, but call me `Niugnep` first.
-I hate creepypasta, NEVER include those in PR or issues!(╥﹏╥)
+Just a 14-year-old FOSS lover.　　
+I'm `StupidestJack`, but call me `Niugnep` first.　　
+I hate creepypasta, NEVER include those in PR or issues!
 
 ## Stack
 ![](https://skillicons.dev/icons?i=html,css,js,py,git,github,cs,dotnet,c)  
@@ -61,6 +61,5 @@ GnuPG(OpenPGP)
 
 ---
 
-By the way I use Kubuntu; but no one asked ≽^- ˕ -^≼
-
+(By the way I use Kubuntu; but no one asked.)
 </div>
