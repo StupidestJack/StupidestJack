@@ -59,7 +59,4 @@ Codeberg
 GnuPG(OpenPGP)  
 [74FE 9CFB BA5C 1937 F646 598E E34C 2A9E 2A5F D9DA](gnupg_public.asc)
 
----
-
-(By the way I use Kubuntu; but no one asked.)
 </div>
