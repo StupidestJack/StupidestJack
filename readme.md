@@ -19,8 +19,8 @@ I hate creepypasta, NEVER include those in PR or issues!(╥﹏╥)
 <!-- GitHub Status section made by GPRM ( https://gprm.itsvg.in ) -->
 
 ## Achievements
-Bronze Medal - IT Software Solutions for Business (Junior), 56th National Skills Competition
-Bronze Medal - IT Software Solutions for Business (Junior), 56th National Skills Competition - Northern Region
+Bronze Medal - IT Software Solutions for Business (Junior), 56th National Skills Competition  
+Bronze Medal - IT Software Solutions for Business (Junior), 56th National Skills Competition - Northern Region 
 
 ## Best Projects
 **[ResendMailer](https://github.com/StupidestJack/ResendMailer)**  
