@@ -30,7 +30,7 @@ A lightweight Python-based Resend TUI mailer
 A lightweight night light application, based on .NET Framework 2.0
 
 **[Debian2WindowsRepo](https://github.com/StupidestJack/Debian2WindowsRepo)**  
-A Debian apt repository for 'Transfer Windows to Linux' bullsh*t projects.
+A Debian apt repository for 'Transfer Windows to Linux' trash projects.
 
 ## Contributed Projects
 **[ryanchiu-1210](https://github.com/ryanchiu-1210)/[typingPractice_Console](https://github.com/ryanchiu-1210/typingPractice_Console)**  
