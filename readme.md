@@ -27,7 +27,7 @@ Bronze Medal - IT Software Solutions for Business (Junior), 56th National Skills
 A lightweight Python-based Resend TUI mailer
 
 **[NightlyTree](https://github.com/StupidestJack/NightlyTree)**  
-A lightweight night light application, based on .NET Framework 2.0
+A lightweight night light application for Windows 2000+, based on .NET Framework 2.0
 
 **[Debian2WindowsRepo](https://github.com/StupidestJack/Debian2WindowsRepo)**  
 A Debian apt repository for 'Transfer Windows to Linux' trash projects.
