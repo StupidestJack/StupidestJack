@@ -3,19 +3,18 @@
 <!--我突然想到，我們班導就是國文老師-->
 `CFLAGS = -catears -cattail -O0mandarin -O0science`
 
-# StupidestJack
+# Niugnep65535
 Just a 14-year-old FOSS lover.  
-I'm `StupidestJack`, but call me `Niugnep` first.  
-I hate creepypasta, NEVER include those in PR or issues!
+I'm `Niugnep`. (`StupidestJack` before renaming)
 
 ## Stack
 ![](https://skillicons.dev/icons?i=html,css,js,py,git,github,cs,dotnet,c)  
 ![](https://skillicons.dev/icons?i=kotlin,bash,linux,arch,jquery,ubuntu,debian,cloudflare,md)
 
 ## GitHub Status
-|![](https://github-readme-stats.shion.dev/api?username=StupidestJack&theme=dark&hide_border=false&include_all_commits=false&count_private=false)|![](https://streak-stats.demolab.com/?user=StupidestJack&theme=dark&hide_border=false)|
+|![](https://github-readme-stats.shion.dev/api?username=Niugnep65535&theme=dark&hide_border=false&include_all_commits=false&count_private=false)|![sdaf](https://streak-stats.demolab.com/?user=Niugnep65535&theme=dark&hide_border=false)|
 |:--:|:--:|
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=StupidestJack&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StupidestJack&theme=github_dark)|
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Niugnep65535&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niugnep65535&theme=github_dark)|
 <!-- GitHub Status section made by GPRM ( https://gprm.itsvg.in ) -->
 
 ## Achievements
@@ -23,10 +22,10 @@ Bronze Medal - IT Software Solutions for Business (Junior), 56th National Skills
 Bronze Medal - IT Software Solutions for Business (Junior), 56th National Skills Competition - Northern Region 
 
 ## Best Projects
-**[ResendMailer](https://github.com/StupidestJack/ResendMailer)**  
+**[ResendMailer](https://github.com/Niugnep65535/ResendMailer)**  
 A lightweight Python-based Resend TUI mailer
 
-**[NightlyTree](https://github.com/StupidestJack/NightlyTree)**  
+**[NightlyTree](https://github.com/Niugnep65535/NightlyTree)**  
 A lightweight night light application for Windows 2000+, based on .NET Framework 2.0
 
 **[Debian2WindowsRepo](https://github.com/StupidestJack/Debian2WindowsRepo)**  
