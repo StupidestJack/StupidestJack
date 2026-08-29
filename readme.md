@@ -40,7 +40,7 @@ A console typing practice program.
 A WebView2-based browser, and more things.
 
 ## Websites
-**[Niugnep's blog](https://niugnep.idv.tw/)**
+**[Niugnep's blog](https://niugnep.idv.tw/)**  
 Niugnep's Chinese blog.
 
 **[Where is my Qiqi?](https://qiqi.niugnep.idv.tw/)**  
