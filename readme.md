@@ -3,6 +3,8 @@
 <!--我突然想到，我們班導就是國文老師-->
 `CFLAGS = -catears -cattail -O0mandarin -O0science`
 
+**en_US.UTF-8** | [zh_TW.UTF-8](readme-zh_TW.md)
+
 # Niugnep65535
 Just a 14-year-old FOSS lover.  
 I'm `Niugnep`. (`StupidestJack` before renaming)
