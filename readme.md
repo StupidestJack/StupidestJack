@@ -60,4 +60,6 @@ Codeberg
 GnuPG(OpenPGP)  
 [74FE 9CFB BA5C 1937 F646 598E E34C 2A9E 2A5F D9DA](https://toybox.niugnep.idv.tw/gnupg_public.asc)
 
+I hate [CAP](https://cap.rcpet.edu.tw/?fuck) and 108 curriculum
+
 </div>
