@@ -1,5 +1,8 @@
+<div align='center'>  
+
 `CFLAGS = -catears -cattail -O0mandarin -O0science`
-[en_US.UTF-8](readme.md)
+
+[en_US.UTF-8](readme.md) | **zh_TW.UTF-8**
 
 # Niugnep65535
 就一個十四歲的FOSS愛好者。  
@@ -55,3 +58,4 @@ Codeberg
 
 GnuPG(OpenPGP)  
 [74FE 9CFB BA5C 1937 F646 598E E34C 2A9E 2A5F D9DA](https://toybox.niugnep.idv.tw/gnupg_public.asc)
+</div>
