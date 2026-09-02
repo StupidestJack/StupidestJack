@@ -58,7 +58,7 @@ Codeberg
 [@niugnep87](https://codeberg.org/niugnep87)
 
 GnuPG(OpenPGP)  
-[74FE 9CFB BA5C 1937 F646 598E E34C 2A9E 2A5F D9DA](https://toybox.niugnep.idv.tw/gnupg_public.asc)
+[338A E72F 23DE 1D38 C89C F1DF 6087 0264 2EC6 1B5C](https://keys.openpgp.org/search?q=penguin%40niugnep.idv.tw)
 
 I hate [CAP](https://cap.rcpet.edu.tw/?fuck) and 108 curriculum
 
